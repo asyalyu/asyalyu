@@ -2,7 +2,7 @@
 
 
 
-✨I study Computer Science and Chinese at Pomona College. However, I am also passionate about art, foreign languages and humanities. I have academic research and hands-on tech experience in Human Computer Interactions (HCI) and UI/UX design.✨ 
+✨I study Computer Science and Chinese at Pomona College. However, I am also passionate about art, foreign languages and humanities. I have academic research as well as hands-on tech experience in Human Computer Interactions (HCI) and UI/UX design.✨ 
 
 - **Computer Languages:** Java, Python, Swift, JavaScript, HTML/CSS, Haskell 
 - **Human Languages:** English (fluent), Russian (fluent), Chinese (advanced), French (intermediate)
