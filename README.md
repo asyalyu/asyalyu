@@ -1,4 +1,4 @@
-## Hi! I'm Asya, a Multifaceted & Interdisciplinary Computer Science student with too many interests 😄
+## Hi! I'm Asya, a Multifaceted & Interdisciplinary Computer Science student 😄
 
 
 
